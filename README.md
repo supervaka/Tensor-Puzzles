@@ -17,7 +17,7 @@ in a simplified environment. Each puzzle asks you to reimplement one
 function in the NumPy standard library without magic. 
 
 
-I recommend running in Colab. Click here and copy the notebook to get start.
+I recommend running in Colab. Click here and copy the notebook to get started.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/srush/Tensor-Puzzles/blob/main/Tensor%20Puzzlers.ipynb)
 
